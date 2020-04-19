@@ -1,3 +1,8 @@
+% Plots em magnitude (Magnitude versus Ω – frequência normalizada, 0 ≤ Ω ≤ 1) e 
+% em decibéis (Ganho em dB versus Ω – frequência normalizada, 10^-2 ≤ Ω ≤ 10^0)
+% da resposta em frequência |HPB(ejw)|^2 de um Filtro Passa-Baixas IIR de 1ª ordem,
+% para valores de  = 0.4, 0.7 e 0.9.  
+
 w = 0:pi/255:pi;
 % Função de transferência:
 H1 = freqz([0.3 0.3], [1 -0.4],w);
