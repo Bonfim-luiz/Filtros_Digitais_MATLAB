@@ -5,7 +5,7 @@ Um filtro IIR pode ser expresso como uma equação diferencial discreta, que def
 
 ## Ferramentas
 Para este projeto foi utilizado o MATLAB para a geração dos gráficos.
-No entanto o pacote SciPy do Python pode ser utilizado como alternativa gratuita. Abaixo segue uma imagem disponível no site do SciPy.
+No entanto o pacote SciPy do Python pode ser utilizado como alternativa gratuita. Abaixo segue uma imagem disponível no site do SciPy, bem como o link que contém instruções de instalação e aplicação do pacote.
 
 [SciPy.org](https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.signal.iirfilter.html)
 
